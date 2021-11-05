@@ -17,7 +17,7 @@ Webpage for aspiring Web Developers who want to learn how to code and build Webs
 ## Steps to execute this App:
 - Download the entire code 
 - Open up the index.html.
-- [View Live Site](https://anthonys1760.github.io/frontend-bootcamp/)
+- [View Live Site]()
 
 ## Technologies used: 
 - HTML
