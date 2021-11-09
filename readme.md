@@ -1,7 +1,7 @@
 # Loruki Cloud Hosting Platform
-![title-pic](responsive.png)
+![title-pic](loruki.png)
 
-Webpage for aspiring Web Developers who want to learn how to code and build Websites.
+Fake Cloud hosting website with documentation and installation instructions. 
 
 ## Project Sections
 
