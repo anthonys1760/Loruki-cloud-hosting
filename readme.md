@@ -1,4 +1,4 @@
-# Loruki Cloud Hosting Platform
+# Cumulus Cloud Hosting Platform
 ![title-pic](loruki.png)
 
 Fake Cloud hosting website with documentation and installation instructions. Deploy web apps of all kinds, from large scale enterprise APIs to static websites for individuals. Fill out the form to try a demo of our platform
